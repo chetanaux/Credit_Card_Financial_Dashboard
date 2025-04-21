@@ -1,10 +1,7 @@
 # 💳 Credit Card Financial Dashboard with Power BI!
 
-I'm excited to share my latest project – a **Credit Card Financial Dashboard** built using Power BI for weekly performance tracking and customer insights! 🚀
-
 ## 📊 Project Objective
-
-To create a real-time, interactive dashboard that helps stakeholders monitor weekly trends in revenue, transactions, and customer demographics — all in one visually engaging report.
+To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor  weekly trends in revenue, transactions, and customer demographics — all in one visually engaging report and analyze credit card operations effectively.
 
 ## 📌 Project Highlights
 

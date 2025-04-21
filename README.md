@@ -24,3 +24,5 @@ To create a real-time, interactive dashboard that helps stakeholders monitor wee
 Power BI: For developing the dashboard and generating insights
 SQL: To import, process, and manage data
 DAX: For performing advanced data analysis and calculations in Power BI
+
+
